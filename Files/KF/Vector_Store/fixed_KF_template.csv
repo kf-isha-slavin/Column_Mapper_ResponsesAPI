@@ -1,0 +1,45 @@
+KF_Column_Title,Description,Status
+Country,Required,Please specify the country in which the employee is based. 
+Currency ,Required,Please provide all values as annual full-time equivalents in the reported currency for each country. You can refer to the required currency on the 'List of Currencies' tab.
+Legal Entity / Business Unit,Required,Please indicate the full name of the company/business unit you are submitting data for. Inputs provided in this column must match company/business unit name submitted in the onboarding survey in Korn Ferry Pay. 
+Employee ID,Required,Please provide a unique identifier for each employee which can be tracked by your organization from one year to the next.
+Employee  Job Title,Required,Please provide your organization's internal job title for each employee.
+Department,Required,Please provide a department name for each employee.
+Manager Employee  ID,Optional,A unique identifier for each employee's direct supervisor which can be tracked by your organization from one year to the next.   Do not include manager's name or social security number due to international privacy law
+Employee  Grade / Band,Optional,Please provide your organization's grade / band for the employee's job.  The corresponding Korn Ferry level should be entered in column N or P.
+Performance Ranking,Optional,Please provide the employee's most recent performance ranking based on the last review cycle using options provided in dropdown: A - Above expectations M - Meet expectations B - Below expectations
+Gender,Optional,Please indicate the gender to which the employee most closely identifies.  M - Male F - Female O - Other/Non-binary
+Employee Work Location / Zip/Postal Code,Optional,Please provide the location in which the employee works (please refer to the List of Locations tab for valid values).
+Function Code  (not required if Ref. Job Code is provided  in column O),Optional,The function code relates to a group of jobs that have a similar nature of work or are located within a specific single functional area. This code represents a function in Korn Ferry's Job Architecture.   
+Subfunction Code  (not required if Ref. Job Code is provided in column O),Required,Important Field: The subfunction code relates to a group of jobs that have a similar nature of work or located within a specific single subfunction. This code represents a specific subfunction in Korn Ferry's Job Architecture.    
+Korn Ferry Reference Level   (not required if Ref. Job Code is provided in Column O),Required,"Important Field: A Reference Level covers a range of Korn Ferry evaluated points, jobs within the same reference level are considered to have equivalent content and responsibility, a description for each reference level can be found in Korn Ferry's Job Architecture. If you use internal client grading, please ensure you include the correlating Korn Ferry grade."
+Korn Ferry Reference  Job Code,Required,"Important Field: A unique code assigned to every job, the code represents a specific job in Korn Ferry's Job Architecture.  "
+Korn Ferry Total Points,Optional,The total Korn Ferry points for the evaluated job.
+Expat,Optional,"Please enter the expatriate type for applicable employees :  Local – Local employees Local Plus – Generally refers to locally recruited foreign workers. These employees are on local pay but with some perks such as partial housing, transportation or education allowance. Expatriates – Are defined as foreign workers who are not paid by local company but follow their home country pay structure"
+Basic Payments (Annual full-time equivalent),Required,"Basic Payments - cash amounts paid for work performed as stated in an employment contract, excluding all Fixed and Variable Payments.   Fixed Payments are included in Base Salary (Basic Payments + Fixed Payments = Base Salary).  Variable Payments are included in Total Cash (Base Salary + Variable Payments = Total Cash)."
+Fixed Payments (Annual full-time equivalent),If Applicable,"Fixed Payments - annual cash amounts paid where the same absolute or percentage amounts have been awarded to eligible jobholders automatically, year-over-year and irrespective of individual, unit, or business performance. (E.g. 13th/14th month pay, holiday bonus, festive bonus, etc.). "
+Salary Structure Minimum,Optional,"Report the minimum of each incumbent’s salary range or grade in annual amount. (e.g., $20,720 = 20720)"
+Salary Structure Midpoint,Optional,"Report the midpoint of each incumbent’s salary range or grade in annual amount. (e.g., $40,720 = 40720)"
+Salary Structure Maximum,Optional,"Report the maximum of each incumbent’s salary range or grade in annual amount. (e.g., $60,720 = 60720)"
+Short-term  Variable  Payment  Eligibility  (Y/N),Required,"Please indicate whether the employee is eligible for Variable Bonus. If “Y” is selected, please ensure the columns for actual and target variable payment are filled. If eligible but no bonus paid, please fill 0 in Variable Payment. "
+Short-term Variable Payment (Annual full-time equivalent),If Applicable,"The actual annual bonus or incentive paid (discretionary / non-discretionary) as a cash amount based on individual, unit or company performance reflecting a period of one year or less. Please only submit full-time employees or employees brought up to a full-time equivalent level."
+Target Short-term Variable Payment  (% of Base Salary),If Applicable,"The employee's targeted annual short-term variable payment for the current plan year, as a % of base salary.  Report 30% as 30"
+Car Eligibility  (Y/N),Required,"The employee's eligibility to receive either a physical car benefit provided by the company through the purchase of a specific make / model, a lease, or a maximum purchase amount, and in lieu of, or in addition to; a cash based car allowance, indicated as ""Y"" or ""N.""    Please exclude any car benefits that are considered “pool” or “tool” cars where the employee uses a service vehicle from a company pool which must be returned at the end of a work day."
+Long-term  Incentive  Eligibility  (Y/N),Required,"Please indicate if the employee is eligible for Long-Term Incentives.   If “Y”, please ensure the corresponding columns are filled."
+Actual Fair Value of Total LTI Granted,If Applicable,"Please provide annualized fair market value of the actual total LTI awarded to the employee on the date of grant.  E.g. if you provide a grant every year of 1,000 shares or options to the employee, and have valued the grant to be 600 please provide 600.  Whereas if you only make this grant every 3 years, please provide 200 (600 / 3)."
+Target Fair Value of Total LTI Granted as % of Base Salary,If Applicable,Please provide the target percent of salary that is used to determine the fair value of the total LTI to be awarded to the employee.  Report 30% as 30 
+Car Allowance (Annual full-time equivalent),If Applicable,Amount of money an employee is granted to compensate for vehicle costs and maintenance. Provide as an annual amount.
+Transportation / Commuting Allowance (Annual full-time equivalent),If Applicable,Benefits or payments made to the employee to compensate for travelling to and from work.
+Housing Allowance (Annual full-time equivalent),If Applicable,Amount of money an employee is granted to compensate for housing / residency costs.
+Meal Allowance (Annual full-time equivalent),If Applicable,Amount of money an employee is granted to compensate for meals / dining / food.
+Dependent Education Allowance (Annual full-time equivalent),If Applicable,Amount of money an employee’s dependents are granted to compensate for education / tuition costs.
+Telecommunication Allowance (Annual full-time equivalent),If Applicable,"Amount of money an employee is granted to compensate for telecommunication costs (i.e. mobile phone, internet, etc.)."
+All Other Allowances (Annual full-time equivalent),If Applicable,Amount of money for all (other) allowances your company provides to employees.
+Total Package (Annual full-time equivalent),"Specific Africa countries (DRC, Madagascar, Malawi, Rwanda and Zimbabwe), If Applicable","If your company runs on Total Cost to Company, please provide the amounts in this column (do not include variable amounts)."
+Total Pension/Provident Fund (Annual full-time equivalent),,Represents the annualized employer's contribution to retirement fund on behalf of the incumbent.
+Medical Aid Contribution (Annual full-time equivalent),,The annual amount of Private Health Insurance contribution paid directly to or on behalf of the employee by the organization as part of the remuneration package.
+Other Benefits and Allowances (Annual full-time equivalent),,Amount of money for all other benefits and allowances your company provides to employees. 
+Executive/Non-Executive Indicator (E / N),Optional,"Please indicate if the incumbent is a Senior Executive (""E"") or Non-Executive (""N"")."
+Weekly Hours Worked,Optional,Please record the average number of hours worked in a standard work week.
+Year of Birth,Optional,The year the incumbent was born. 
+Year of Hire,Optional,The year the incumbent was hired.
