@@ -1,0 +1,16 @@
+input_column,matched_KF_column_1,matched_KF_column_2,matched_KF_column_3
+ID,Employee ID,Manager Employee  ID,Korn Ferry Reference  Job Code
+Gender,Gender,Executive/Non-Executive Indicator (E / N),Expat
+Business Title,Employee  Job Title,Department,Legal Entity / Business Unit
+Country,Country,Employee Work Location / Zip/Postal Code,Legal Entity / Business Unit
+argenx job level,Employee  Grade / Band,Korn Ferry Reference Level   (not required if Ref. Job Code is provided in Column O),Korn Ferry Total Points
+Currency,Currency,Country,Basic Payments (Annual full-time equivalent)
+Actual Annual Salary,Basic Payments (Annual full-time equivalent),Fixed Payments (Annual full-time equivalent),Salary Structure Midpoint
+Currency.1,Currency,Basic Payments (Annual full-time equivalent),Short-term Variable Payment (Annual full-time equivalent)
+Variable Pay - Plan,Short-term  Variable  Payment  Eligibility  (Y/N),Short-term Variable Payment (Annual full-time equivalent),Target Short-term Variable Payment  (% of Base Salary)
+Target Variable Pay - Percent,Target Short-term Variable Payment  (% of Base Salary),Short-term  Variable  Payment  Eligibility  (Y/N),Short-term Variable Payment (Annual full-time equivalent)
+Allowance - Car,Car Allowance (Annual full-time equivalent),Car Eligibility  (Y/N),Transportation / Commuting Allowance (Annual full-time equivalent)
+Allowance - Phone,Telecommunication Allowance (Annual full-time equivalent),All Other Allowances (Annual full-time equivalent),Other Benefits and Allowances (Annual full-time equivalent)
+Allowance - Representation,All Other Allowances (Annual full-time equivalent),Other Benefits and Allowances (Annual full-time equivalent),Meal Allowance (Annual full-time equivalent)
+Equity Amount - Annual,Actual Fair Value of Total LTI Granted,Target Fair Value of Total LTI Granted as % of Base Salary,Long-term  Incentive  Eligibility  (Y/N)
+Cost Center - Name,Department,Legal Entity / Business Unit,Function Code  (not required if Ref. Job Code is provided  in column O)

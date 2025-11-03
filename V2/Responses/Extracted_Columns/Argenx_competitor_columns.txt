@@ -1,0 +1,15 @@
+ID
+Gender
+Business Title
+Country
+argenx job level
+Currency
+Actual Annual Salary
+Currency.1
+Variable Pay - Plan
+Target Variable Pay - Percent
+Allowance - Car
+Allowance - Phone
+Allowance - Representation
+Equity Amount - Annual
+Cost Center - Name

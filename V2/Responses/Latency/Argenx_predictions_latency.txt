@@ -1,0 +1,2 @@
+Response time: 147.80661606788635 seconds
+Mapped 15 columns
